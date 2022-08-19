@@ -76,7 +76,7 @@ button {
 
 
 /* Scrollbars */
-
+/* 
 ::-webkit-scrollbar {
 	width: 14px !important;
 }
@@ -97,7 +97,7 @@ button {
 
 .none-2Eo-qx::-webkit-scrollbar {
 	display: none !important;
-}
+} */
 
 
 /* Titlebar */
